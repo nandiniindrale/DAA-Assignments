@@ -1,6 +1,9 @@
-// The list of size N is divided into a max of Logn parts, and the merging of all sublists into a single list takes O(N) time, the worst-case run time of this algorithm is O(nLogn) Best Case Time Complexity: O(n*log n) Worst Case Time Complexity: O(n*log n) Average Time Complexity: O(n*log n)
+/* The list of size N is divided into a max of Logn parts, and the merging of all sublists into a single list takes O(N) time, 
+ the worst-case run time of this algorithm is O(nLogn) Best Case Time Complexity: O(n*log n) Worst Case Time Complexity: O(n*log n) 
+ Average Time Complexity: O(n*log n)*/
 
 //The space complexity of quicksort is O(n*logn).
+
 #include<iostream>
 using namespace std;
 
